@@ -59,7 +59,7 @@ class WeatherApp(QWidget):
             self.result_label.setText("Please enter a city name!")
             return
 
-        api_key = "a5cbbe7078d6aae3ac08c6c5837f483f"  # Your API key
+        api_key = "Your Api Key"  # Your API key
         url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
         try:
