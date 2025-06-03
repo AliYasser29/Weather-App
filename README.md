@@ -50,8 +50,6 @@ weather_app/
 ├── weather_app.py         # Main application code
 └── README.md              # Project documentation
 
-نسخ
-تحرير📌 Notes
 Make sure you have an active internet connection.
 
 The app uses the metric system (°C for temperature).
